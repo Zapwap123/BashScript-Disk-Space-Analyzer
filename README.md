@@ -18,13 +18,13 @@ git clone https://github.com/Zapwap123/BashScript-Disk-Space-Analyzer
 cd BashScript-Disk-Space-Analyzer
 ```
 
-### 1. Make the script executable:
+### 2. Make the script executable:
 
 ```bash
 chmod +x diskSpaceAnalyzer.sh
 ```
 
-### 2. Run the script:
+### 3. Run the script:
 
 ```bash
 ./diskSpaceAnalyzer.sh [optional_path]
