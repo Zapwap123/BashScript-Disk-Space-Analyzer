@@ -11,7 +11,7 @@ A simple Bash script to analyze disk usage and identify the largest directories 
 
 ## Usage
 
-### 1. Clone the repository\*\*:
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/Zapwap123/BashScript-Disk-Space-Analyzer
